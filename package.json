@@ -19,6 +19,7 @@
     "localenv": "0.2.2",
     "optimist": "0.6.1",
     "pump": "3.0.0",
+    "random-port": "0.1.0",
     "tldjs": "2.3.1"
   },
   "devDependencies": {
